@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<manifest>
+   
+    <project name="Akianonymus/device_motorola_msm8916-common" path="device/motorola/msm8916-common" remote="github" revision="twrp" />
+
+    <project name="Akianonymus/device_motorola_harpia" path="device/motorola/harpia" remote="github" revision="twrp" />
+
+    <project name="Akianonymus/kernel_moto_msm8916" path="kernel/motorola/msm8916" remote="github" revision="twrp" />
+
+    <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.9" name="Akianonymus/Linaro-arm" revision="4.9" remote="github" />
+
+</manifest>
